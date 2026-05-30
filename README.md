@@ -23,13 +23,14 @@ Each folder represents a key area of study:
 
 ---
 
-## 📁 Repository Structure
-python/
-math/
-machine_learning/
-projects/
+## 📌 What I'm Doing Here
 
-
+I am using this repository as a learning and practice space where I:
+- Learn Python and Data Science
+- Study Machine Learning fundamentals
+- Build small real-world projects
+- Improve my programming skills step by step
+  
 ---
 
 ## 📌 Learning Goals
