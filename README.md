@@ -1,3 +1,29 @@
+# 👋 Hi there, I'm Niloophr
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 Computer Science student  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🐍 Currently learning Python and building small projects  
+📚 Focused on improving my programming and problem-solving skills  
+
+---
+
+## 📍 About Me
+
+- **Name:** Niloophr Keshavarz  
+- **Field:** Computer Science  
+- **Interests:** AI / ML / Data Science  
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/niloophr-keshavarz-6263b4313/)  
+- 📧 Email: niloophr.keshavarz@gmail.com  
+
 # 🚀 AI/ML Learning Roadmap
 
 ## 🎯 Objective
