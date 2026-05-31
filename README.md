@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science student  
+🎓 Software Engineering student  
 🤖 Interested in Artificial Intelligence & Machine Learning  
 🐍 Currently learning Python and building small projects  
 📚 Focused on improving my programming and problem-solving skills  
